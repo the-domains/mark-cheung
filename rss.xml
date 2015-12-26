@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mark Cheung]]></title>
+        <description><![CDATA[Mark Cheung]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 07:21:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the Beginning]]></title>
+            <description><![CDATA[<article><h1>In the Beginning</h1><p>In the Beginning...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/645e40b6a0cec36f50bd966ed673f96bcde31825.jpg"></article>]]></description>
+            <link>undefinedin-the-beginning/index.html</link>
+            <guid isPermaLink="false">a8ee53bf-4148-44c9-a973-765fccf68f89</guid>
+            <pubDate>Sat, 26 Dec 2015 07:21:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
